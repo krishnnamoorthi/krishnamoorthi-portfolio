@@ -1,0 +1,21 @@
+.banner{
+    background-image: url(/img/protofolio\ background\ image.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+
+}
+.myimg{
+    width:500px;
+}
+.kk{
+    border-radius: 20px;
+
+}
+.bcnavi{
+   background-color: rgb(169, 216, 234);
+}
+.about{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,180,0.9411414223892682) 50%, rgba(252,176,69,1) 100%);
+}
